@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20b7c61-5cbe-4a01-ae99-45d0d0e6ea99" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab001.java" afterDir="false" />
-    </list>
+    <list default="true" id="f20b7c61-5cbe-4a01-ae99-45d0d0e6ea99" name="Changes" comment="This is my second push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Lavkush77-web"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Lavkush77-web/ATP8x_1.git",
@@ -55,7 +58,20 @@
       <option name="presentableId" value="Default" />
       <updated>1726420685308</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is my second push">
+      <option name="closed" value="true" />
+      <created>1726508616868</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726508616868</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is my second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is my second push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
