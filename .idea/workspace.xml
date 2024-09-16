@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20b7c61-5cbe-4a01-ae99-45d0d0e6ea99" name="Changes" comment="This is my second push" />
+    <list default="true" id="f20b7c61-5cbe-4a01-ae99-45d0d0e6ea99" name="Changes" comment="third push s" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,12 +66,30 @@
       <option name="project" value="LOCAL" />
       <updated>1726508616868</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="third push">
+      <option name="closed" value="true" />
+      <created>1726508835883</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726508835883</updated>
+    </task>
+    <task id="LOCAL-00003" summary="third push s">
+      <option name="closed" value="true" />
+      <created>1726508988384</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726508988384</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is my second push" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is my second push" />
+    <MESSAGE value="third push" />
+    <MESSAGE value="third push s" />
+    <option name="LAST_COMMIT_MESSAGE" value="third push s" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
