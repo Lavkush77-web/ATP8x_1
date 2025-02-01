@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f20b7c61-5cbe-4a01-ae99-45d0d0e6ea99" name="Changes" comment="third push s">
-      <change afterPath="$PROJECT_DIR$/src/sept22092024/Lab001.java" afterDir="false" />
+    <list default="true" id="f20b7c61-5cbe-4a01-ae99-45d0d0e6ea99" name="Changes" comment="commit on 22092024">
+      <change afterPath="$PROJECT_DIR$/src/Feb/ex_01012025/Lab004.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab0002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Package1/Lab003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept22092024/Lab001.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Lab001.executor": "Run",
+    "Application.Lab004.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -54,6 +60,26 @@
     "onboarding.tips.debug.path": "C:/Users/Lavkush/ATP8x_1/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Feb.ex_01012025.Lab004" />
+      <module name="ATP8x_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Feb.ex_01012025.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab004" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -103,13 +129,22 @@
       <option name="project" value="LOCAL" />
       <updated>1727004316019</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit on 22092024">
+      <option name="closed" value="true" />
+      <created>1727024578338</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727024578338</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is my second push" />
     <MESSAGE value="third push" />
     <MESSAGE value="third push s" />
-    <option name="LAST_COMMIT_MESSAGE" value="third push s" />
+    <MESSAGE value="commit on 22092024" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit on 22092024" />
   </component>
 </project>
